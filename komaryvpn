@@ -1,0 +1,8 @@
+hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&allowinsecure=1&sni=eh.vk.com#🇳🇱 0001 | Быстрый ⚡ (LTE)
+hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&allowinsecure=1&sni=eh.vk.com#🇳🇱 0002 | Быстрый ⚡ (LTE)
+hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=eh.vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇳🇱 0003 | Быстрый ⚡ (LTE)
+hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&allowinsecure=0&sni=www.cloudflare.com#🇳🇱 0004 | Быстрый ⚡ (LTE)
+trojan://trojan@152.53.200.167:8444?security=tls&sni=jflsjlaf.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=jflsjlaf.pages.dev&path=%2F#🇷🇺 0005 | Белые списки 📡 (LTE)
+trojan://trojan@152.53.200.167:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&path=%25252F&Host=jflsjlaf.pages.dev#🇷🇺 0006 | Белые списки 📡 (LTE)
+trojan://trojan@152.53.200.98:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&path=%25252F&Host=jflsjlaf.pages.dev#🇷🇺 0007 | Белые списки 📡 (LTE)
+trojan://trojan@152.53.45.251:8888?security=tls&sni=jflsjlaf.pages.dev&type=ws&path=%25252F&Host=jflsjlaf.pages.dev#🇷🇺 0008 | Белые списки 📡 (LTE)
