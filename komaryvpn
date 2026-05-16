@@ -1,6 +1,5 @@
-vless://de673a5c-fc6a-48cc-bde7-47410a5b79e1@188.130.154.56:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=jobinvest.ru##🇫🇮1 Финляндия — Игровой 🎮
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.41:52006?security=tls&encryption=none&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇷🇺2 Россия — YouTube 🎬
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.27:52006?security=tls&encryption=none&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=cl-ru-1.edgeflux.ru##🇷🇺3 Россия — YouTube 🎬
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cl-ru-1.edgeflux.ru:52006?security=tls&encryption=none&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=cl-ru-1.edgeflux.ru##🇷🇺4 Россия — YouTube 🎬
-vless://75807638-6f19-1f40-ae08-38492ee85c88@178.72.162.252:52006?security=tls&encryption=none&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=cluster-europe-1.firstvideocdn.ru##🇳🇱5 Нидерланды — Telegram 💊
-
+vless://6784aee2-0dfe-474f-8446-480259ff9918@37.9.13.174:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&fp=chrome&allowinsecure=0&type=xhttp&sni=stats.vk-portal.net&sid=965af8960474c29c##🇳🇱1 Нидерланды — Белые списки 📡
+vless://75807638-6f19-07d0-ae08-38492ee85c88@188.246.226.14:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision##🇷🇺2 Россия — Ютуб без рекламы 📺
+vless://31df9217-b7d0-Fade-946c-ac50d556aeff@195.209.90.178:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=s28233.cdn.ngenix.net&fp=qq&allowinsecure=0&type=ws&sni=s28233.cdn.ngenix.net##🇦🇹3 Австрия — Белые списки 📡
+vless://c3f112fc-1041-Fade-b85c-5ed478daeeb9@212.193.147.245:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=s28233.cdn.ngenix.net&fp=qq&allowinsecure=0&type=ws&sni=s28233.cdn.ngenix.net#🇬🇧4 Великобритания — Telegram 💊
+vless://c4d69096-4026-4da5-9485-20a3da91cb14@176.124.214.235:443?mode=gun&security=reality&encryption=none&authority=&pbk=NhsyjpnYcDfpRfyX2m47AsoHDX_boKi9e1lKOkFNsgE&fp=chrome&allowinsecure=0&type=grpc&serviceName=grpc&sni=login.vk.com&sid=12a73c72##🇺🇸5 США — Белые списки 📡
